@@ -10,6 +10,7 @@ def mainmenu():
     <html>
     <body>
     <center><h1>Hello World! from AWS CodeDeploy.</h1><br/>
+    <h2>Piper　CI/CD Lab11-2</h2>
     </body>
     </html>"""
 
